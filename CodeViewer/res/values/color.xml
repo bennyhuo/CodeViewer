@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#00000000</color>
+    <color name="bg_head">#007c7c7c</color>
+    <color name="bg_head_pressed">#227c7c7c</color>
+    <color name="bg_answered">#b7eeb2</color>
+    <color name="bg_base">#fed538</color>
+    <color name="bg_lock">#83dc7b</color>
+    <color name="bg_favor">#f66c85</color>
+    <color name="bg_interact">#00b5b9</color>
+    <color name="bg_settings">#528ccb</color>
+</resources>
